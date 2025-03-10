@@ -6,7 +6,7 @@
   "Author": "haider",
   "Version": "1.0.5",
   "Language": "csharp",
-  "Website": "https://github.com/DevHJS/Flow.Launcher.Plugin.TinyUrlPlugin",
+  "Website": "https://github.com/HMO-SOUL/TinyUrlPlugin",
   "IcoPath": "icon.png",
   "ExecuteFileName": "Flow.Launcher.Plugin.TinyUrlPlugin.dll"
 }
